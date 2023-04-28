@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plants-land-shop/static/css/main.c5f601dc.css",
+    "main.js": "/plants-land-shop/static/js/main.bf300361.js",
+    "index.html": "/plants-land-shop/index.html",
+    "main.c5f601dc.css.map": "/plants-land-shop/static/css/main.c5f601dc.css.map",
+    "main.bf300361.js.map": "/plants-land-shop/static/js/main.bf300361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f601dc.css",
+    "static/js/main.bf300361.js"
+  ]
+}

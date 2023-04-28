@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c5f601dc.css","mappings":"AAAA,KACI,QACJ,CAEA,EACI,sBACJ,CACA,WACI,aACJ","sources":["index.css"],"sourcesContent":["body {\r\n    margin: 0;\r\n}\r\n\r\n* {\r\n    scroll-behavior: smooth;\r\n}\r\nimg, iframe {\r\n    display: block;\r\n}"],"names":[],"sourceRoot":""}
